@@ -1,0 +1,3 @@
+Here is a new file to write in.
+Add new line. Write some text.
+Adding next line to test vim and git programm.
